@@ -31,7 +31,7 @@ To set up the environment, you need to have the following dependencies installed
 First, obtain the Trump-bot package.
 
 ```bash
-git clone https://github.com/hakula139/Trump-bot.git
+git clone https://github.com/hakulattic/Trump-bot.git
 cd Trump-bot
 ```
 

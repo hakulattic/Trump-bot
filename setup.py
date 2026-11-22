@@ -12,7 +12,7 @@ setuptools.setup(
     description='A simple Twitter bot which tries to mimic @realDonaldTrump.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/hakula139/Trump-bot',
+    url='https://github.com/hakulattic/Trump-bot',
     packages=setuptools.find_packages(),
     classifiers=[
         'Development Status :: 3 - Alpha',
